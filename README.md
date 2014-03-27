@@ -28,6 +28,7 @@ create an instance of the library
             //you can now call the search method, which will return
             //an array of documents
             m.search("Data", function (result) {
+            	//returns a JSON  object with document data  array inside
                 console.log(result);
             });
         }
