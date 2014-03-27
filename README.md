@@ -1,6 +1,8 @@
 Javascript + Mendeley Public API
 ============
 
+note : im still writing this
+
 A wrapper for the mendeley api's public methods, compliant with the new oauth 2.0 implementation.
 
 ###Supported Methods
