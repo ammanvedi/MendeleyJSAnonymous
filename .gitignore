@@ -1,2 +1,4 @@
 test.js
-*.esproj
+/*.esproj
+.DS_Store
+mendeleyjs.esproj
